@@ -1,0 +1,130 @@
+
+box1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    border: black 10px solid;
+}
+
+box2{
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box3{
+    position: absolute;
+    top: 341px;
+    left: 0px;
+    background-color: white;
+    width: 100px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box4{
+    position: absolute;
+    top: 0px;
+    left: 210px;
+    background-color: darkslateblue;
+    width: 200px;
+    height: 330px;
+    border: black 10px solid;
+}
+
+box5{
+    position: absolute;
+    top: 341px;
+    left: 110px;
+    background-color: firebrick;
+    width: 400px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box6{
+    position: absolute;
+    top: 0px;
+    left: 420px;
+    background-color: white;
+    width: 90px;
+    height: 330px;
+    border: black 10px solid;
+}
+
+box7{
+    position: absolute;
+    top: 0px;
+    left: 521px;
+    background-color: yellow;
+    width: 350px;
+    height: 30px;
+    border: black 10px solid;
+}
+
+box8{
+    position: absolute;
+    top: 30px;
+    left: 521px;
+    background-color: darkslateblue;
+    width: 350px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box9{
+    position: absolute;
+    top: 341px;
+    left: 521px;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box10{
+    position: absolute;
+    top: 341px;
+    left: 821px;
+    background-color: white;
+    width: 50px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box11{
+    position: absolute;
+    top: 0px;
+    left: 882px;
+    background-color: white;
+    width: 100px;
+    height: 20px;
+    border: black 10px solid;
+}
+
+box12{
+    position: absolute;
+    top: 30px;
+    left: 882px;
+    background-color: white;
+    width: 100px;
+    height: 300px;
+    border: black 10px solid;
+}
+
+box13{
+    position: absolute;
+    top: 341px;
+    left: 882px;
+    background-color: firebrick;
+    width: 100px;
+    height: 300px;
+    border: black 10px solid;
+}

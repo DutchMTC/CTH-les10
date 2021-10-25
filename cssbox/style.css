@@ -1,0 +1,18 @@
+body{
+    background-image: url(img/100x100.gif);
+    color: magenta;
+}
+
+div{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    background-color: lightblue;
+    color: mediumblue;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border: blue 20px solid;
+    margin: 20px;
+    opacity: 0.5;
+}
